@@ -527,7 +527,7 @@ static constexpr MetaData meta_data[] = {
     IBFHelper<InfoBoxContentSpeedIndicated>::Create,
     e_Load_G, // G load
     e_Track_GPS, // Track
-    DEPRECATED,
+    STANDARD,
   },
 
   // e_H_Baro
